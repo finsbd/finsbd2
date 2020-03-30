@@ -11,6 +11,9 @@ All annotations provided in the context of the shared task are licensed under
 the creative common license 
 [CC BY-NC-ND](https://creativecommons.org/licenses/by-nc-nd/2.0/).
 
+The test data will be released on the 1st of May 2020 and is composed of 
+2 English and 10 French PDFs.
+
 
 ### Installation
 
